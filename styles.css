@@ -143,6 +143,10 @@ a {
   border: 1px solid #e5e7eb;
 }
 
+.simple-card {
+  margin-bottom: 18px;
+}
+
 .card h3,
 .simple-card h3,
 .timeline-item h3 {
